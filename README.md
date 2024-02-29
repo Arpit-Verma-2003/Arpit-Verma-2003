@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend , WEB3 Developer and DSA Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-- 🔭 I’m currently working on **EcoEcho**
+- 🔭 I’m currently working on **Hunger Watch Project**
 
 - 🌱 I’m currently learning **React JS**
 
