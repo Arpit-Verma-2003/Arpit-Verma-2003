@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Verma</h1>
-<h3 align="center">A passionate frontend , WEB3 Developer and DSA Enthusiast</h3>
+<h3 align="center">A passionate Full Stack , WEB3 Developer and DSA Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-verma-2003&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-verma-2003" /> </p>
 - 🔭 I’m currently working on **Hunger Watch Project**
