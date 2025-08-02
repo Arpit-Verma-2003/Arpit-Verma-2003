@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack , WEB3 Developer and DSA Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-verma-2003&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-verma-2003" /> </p>
-- 🔭 I’m currently working on **Hunger Watch Project**
+🔭 I’m currently working on [Effort Estimator Project](https://github.com/Arpit-Verma-2003/Effort-Estimator)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently mastering **React JS|Fast API**
 
 - 👨‍💻 All of my projects are available at [https://arpitverma.netlify.app/](https://arpitverma.netlify.app/)
 
